@@ -1,0 +1,1 @@
+# CI_CD_FOR_CNN_MNIST_8kParams
